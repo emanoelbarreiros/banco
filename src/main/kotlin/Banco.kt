@@ -82,7 +82,7 @@ class Banco {
         // Voce deve implementar a logica da funcao transferir. Ela deve debitar o valor da conta de origem e
         // creditar o valor na conta de destino.
         //
-        // OBS: Essa funcao pela funcao transferencia no arquivo main.kt,
+        // OBS: Essa funcao é utilizada pela funcao transferencia no arquivo main.kt,
         // observe o que se espera da funcao transferir por la
         //
         // ATENCAO: o numeroContaOrigem pode fazer referencia a uma conta inexistente, o que nao deve ser permitido
